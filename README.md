@@ -41,7 +41,7 @@ Social Icons come from over right corner and staanding to top-right position aft
 
 ---
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/skino0/File-Uploader-Site-Html-Css-JQuery-Php/blob/master/license.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/skino0/JQuery-Input-popup-by-button-and-passing-value-to-other-element/blob/master/MIT%20License.md) file for details
 
 ---
 
